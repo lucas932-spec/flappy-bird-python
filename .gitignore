@@ -1,0 +1,2 @@
+git add README.md .gitignore LICENSE
+git commit -m "Adicionando README, .gitignore e LICENSE"
