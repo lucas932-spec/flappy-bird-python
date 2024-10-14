@@ -1,0 +1,29 @@
+# Flappy Bird Clone
+
+Este é um clone simples do jogo Flappy Bird, desenvolvido em Python usando a biblioteca Pygame. O objetivo do jogo é controlar um pássaro que deve voar entre canos, evitando colisões.
+
+## Instruções
+
+- Pressione **SPACE** para fazer o pássaro pular.
+- Evite os canos.
+- Pressione **ENTER** para iniciar o jogo.
+- Pressione **R** para reiniciar após perder.
+
+## Pré-requisitos
+
+Certifique-se de ter o Pygame instalado. Você pode instalar usando:
+
+```bash
+pip install pygame
+
+Como jogar
+Clone este repositório.
+Navegue até a pasta do projeto.
+Execute o jogo:
+python flappy_bird.py
+Imagens
+As seguintes imagens são usadas no jogo:
+
+passarinho.png: imagem do pássaro.
+pipe.png: imagem dos canos.
+fundoflpapyypy.jpg: imagem do fundo do jogo.
